@@ -1,0 +1,22 @@
+h1 {
+  font-family: "Montserrat', sans-serif";
+  font-size: 3rem;
+  line-height: 1.5;
+  color: Green;
+}
+
+#title {
+  background-color: #ff4c68;
+  font-family: "Montserrat', sans-serif";
+}
+
+
+.container-fluid {
+color: blue;
+}
+
+body {
+  margin: 10%;
+  margin-left: 0;
+  font-size: 999px;
+}
